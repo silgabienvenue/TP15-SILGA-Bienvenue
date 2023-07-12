@@ -1,0 +1,264 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*section-0*/
+.section-0{
+    display: flex;
+    width: 1500px;
+    background-color: black;
+    position: fixed;
+}
+.section-0 nav .chil{
+    font-size: 50px;
+    padding-right: 19px;
+}
+.section-0 nav form{
+    margin-left: 550px;
+    border-radius: 10px;
+}
+.section-0 nav .container-fluid a{
+    color: white;
+}
+
+
+/*section-1*/
+.section-1{
+    background-color:rgb(0, 225, 255);
+    padding: 200px 100px 200px 100px; 
+}
+.section-1 h1{
+    font-size: 90px;
+    color: rgb(182, 201, 74);
+}
+.section-1 h1 strong{
+    color: white; 
+    font-size: 90px;
+}
+.section-1 h2{
+    color: white;
+    font-weight: -20pxpx;
+    padding-left: 200px;
+}
+.section-1 .button {
+    display: flex;
+   border-radius: 50px;
+   height: 50px;
+   margin-left: 400px;  
+}
+.section-1 .button a{
+   border-radius: 10px;
+   width: 160px;
+   height: 50px;
+   padding: 20px;
+   font-size: 20px;
+   justify-content: center;
+   align-items: center;
+}
+.section-1 .button .button-1{
+    color: #000;
+    background-color: rgb(211, 168, 77);
+    margin-right: 50px;
+    
+}
+.section-1 .button .button-2{
+    color: white;
+    background-color: rgb(197, 78, 62);
+}
+
+/*section-2*/
+.section-2{
+    margin: 20px;
+    padding: 20px;
+}
+.section-2 h2{
+     color: orange;
+    margin-left: 450px;
+    font-size: 100px;
+}
+.section-2 .para{
+    margin-left: 300px;
+}
+.section-2 .card-group{
+    margin: 50px;
+}
+.section-2 .card-group .card{
+    border: none;
+}
+.section-2 .card-group .card i{
+    color: orange;
+    font-size: 100px;
+    margin-left: 100px;
+    
+} 
+.section-2 .card-group .card h3{
+    color:rgb(130, 140, 158) ;
+    padding-left: 100px;
+   font-weight: 200px;
+}
+.section-2 .card-group .card p{
+    justify-content: center;
+    align-items: center;
+}
+.section-2 .card-group .card .btn{
+    border-radius: 10px;
+    border-color: orange;
+    width: 100px;
+    margin-left: 100px;
+}
+.section-2 .card-group .card .btn a{
+    color: orange;
+}
+
+
+/*section-3*/
+.section-3 h2{
+    color: orange;
+   margin-left: 400px;
+   font-size: 100px;
+   font-weight: -20pxpx;
+}
+.section-3 .para{
+   margin-left: 300px;
+}
+.section-3{
+   margin: 100px;
+}
+.section-3 .card-group .card{
+   border: none;
+}   
+.section-3 .card-group .card h3{
+    color: orange;
+   font-weight: 200px;
+}
+.section-3 .card-group .card p{
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+.section-3 .card-group .card img{
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    padding:20px;
+}
+.section-3 .card-group .card .M{
+    height: 50px;
+ } 
+/*section-4*/
+.section-4{
+    background-color:grey;
+    padding: 100px;
+}
+.section-4 h2{
+    color: orange;
+   margin-left: 450px;
+   font-size: 100px;
+}
+.section-4 .para{
+   margin-left: 300px;
+   color: white;
+}
+.section-4 .card-group .card{
+   border: none;
+   margin: 20px;
+}   
+.section-4.card-group .card h3{
+    color: #00000065;
+   font-weight: 200px;
+}
+.section-4 .card-group .card p{
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+.section-4 .card-group .card img{
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+.section-4 .card-group .card .card-body .icon{
+    margin-left: 200px;
+    
+}
+.section-4 .card-group .card .card-body .icon span{
+    font-size: 30px;
+}
+.section-4 .card-group .card .card-body .yt{
+    color: red;
+}
+.section-4 .card-group .card .card-body .twit{
+    color:rgb(70, 109, 70);
+}
+.section-4 .card-group .card .card-body .face{
+    color:blue;
+}
+/*section-5*/
+.section-5 {
+    padding: 50px;
+    }
+.section-5 .bar{
+padding: 50px 250px 50px 250px;
+}
+.section-5 h2{
+    color: orange;
+   margin-left: 400px;
+   font-size: 100px;
+}
+.section-5 .para{
+   margin-left: 350px;
+}
+
+.section-6 h2{
+    color: orange;
+   margin-left: 400px;
+   font-size: 100px;
+}
+.section-6 .para{
+   margin-left: 350px;
+}
+.section-6 h3,.com{
+    margin-left: 400px;
+}
+.section-6 form{
+    width: 550px;
+    margin-left: 300px;
+}
+/*footer*/
+footer{
+    background-color:gray;
+    padding-left: 400px;
+}
+
+footer h3{
+    color: antiquewhite;
+    font-size: 50px;
+}
+footer  em{
+    color: antiquewhite;
+    font-size: 30px;
+}
+footer .icons span{
+    padding: 30px;
+    font-size: 30px;
+}
+
+footer .face{
+    color:blue;
+}    
+footer .go{
+    color: red;
+}
+footer.twit{
+    color:rgb(41, 77, 41);
+}
+footer .yt{
+    color: red;
+}
+footer .copy{
+    color: white;
+    padding: 20px;
+}
